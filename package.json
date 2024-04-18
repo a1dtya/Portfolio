@@ -1,7 +1,7 @@
 {
   "name": "Aaditya-Parmar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/a1dtya",
+  "homepage": "https://a1dtya.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
